@@ -11,7 +11,7 @@ const props = defineProps(["indexLink", "activeLink"]);
     :class="{ active: indexLink === activeLink }"
     v-smooth-scroll
   >
-    {{ indexLink + 25 }}
+    {{ indexLink + 26 }}
   </a>
 </template>
 
