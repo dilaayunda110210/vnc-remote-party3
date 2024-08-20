@@ -1,14 +1,14 @@
 export const vncList = [
   { vncLink: "https://wmpy8m-3000.csb.app" },
   { vncLink: "https://ftt9nt-3000.csb.app" },
-  { vncLink: "https://fx2s8z-3000.csb.app" },
+  { vncLink: "https://lmls57-3000.csb.app" },
   { vncLink: "https://rl42nl-3000.csb.app" },
   { vncLink: "https://rfh82z-3000.csb.app" },
   { vncLink: "https://4qnpmw-3000.csb.app" },
   { vncLink: "https://nl9xkl-3000.csb.app" },
   { vncLink: "https://sx2m4q-3000.csb.app" },
   { vncLink: "https://9qvxld-3000.csb.app" },
-  { vncLink: "https://lmls57-3000.csb.app" },
+  { vncLink: "https://h43kxh-3000.csb.app" },
   { vncLink: "https://9l58fr-3000.csb.app" },
   { vncLink: "https://yp32qz-3000.csb.app" },
 ];
